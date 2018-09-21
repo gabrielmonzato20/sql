@@ -1,4 +1,4 @@
-INSERT INTO USUARIO  VALUES
+INSERT INTO USUARIO(LOGIN,SENHA)  VALUES
 ('GILSON.ALMEIDA','G1501375'),
 ('SEBASTIAO.RODRIGUES','S1602440'),
 ('VALDIR.CASTRO','V1602396'),
@@ -63,7 +63,6 @@ INSERT INTO USUARIO  VALUES
 ('EMILIO.RESENDE','12345676'),
 ('FELIPE.DIAS','12345676'),
 ('FERNANDO.ZUHER','12345676'),
-('FRANCESCA.ROMANELLI','12345676'),
 ('GISELDA.PEREIRA','12345676'),
 ('GUILHERME.LOHMANN','12345676'),
 ('GUSTAVO.FERREIRA','12345676'),
@@ -88,9 +87,7 @@ INSERT INTO USUARIO  VALUES
 ('VICTOR.OLIVEIRA','12345676'),
 ('VLADIMIR.CHAGAS','12345676'),
 ('Francesca.Romanelli','13456789'),
-('Ana.Santos','13456789'),
 ('Bruno.Lima','13456789'),
-('Osvaldo.Takai','13456789'),
 ('Alan.Carvalho ','13456789'),
 ('Ayao.Okamoto','13456789');
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
